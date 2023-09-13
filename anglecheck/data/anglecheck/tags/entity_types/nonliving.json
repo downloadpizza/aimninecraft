@@ -1,0 +1,32 @@
+{
+  "values": [
+    "minecraft:item",
+    "minecraft:experience_orb",
+    "#minecraft:arrows",
+    "minecraft:firework_rocket",
+    "minecraft:item_frame",
+    "minecraft:glow_item_frame",
+    "minecraft:item_display",
+    "minecraft:boat",
+    "minecraft:chest_boat",
+    "minecraft:minecart",
+    "minecraft:chest_minecart",
+    "minecraft:command_block_minecart",
+    "minecraft:furnace_minecart",
+    "minecraft:hopper_minecart",
+    "minecraft:spawner_minecart",
+    "minecraft:tnt_minecart",
+    "minecraft:tnt",
+    "minecraft:block_display",
+    "minecraft:egg",
+    "minecraft:snowball",
+    "minecraft:ender_pearl",
+    "minecraft:eye_of_ender",
+    "minecraft:shulker_bullet",
+    "minecraft:dragon_fireball",
+    "minecraft:fireball",
+    "minecraft:small_fireball",
+    "minecraft:trident",
+    "minecraft:text_display"
+  ]
+}

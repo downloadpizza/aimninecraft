@@ -1,0 +1,1 @@
+execute as @e[scores={whoami_ids=-2147483648..}] if score @s whoami_ids = $next whoami_var run function whoami:skip_next_loop

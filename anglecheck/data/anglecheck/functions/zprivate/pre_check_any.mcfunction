@@ -1,0 +1,1 @@
+execute at @s as @e[type=!#anglecheck:nonliving,distance=..250] run tag @s add anch_prechecked
